@@ -8,4 +8,4 @@ Unknown
 # Why is project like MOTHER 1+2 Translation
 It isn't that important, but the idea of making a translation that barely anyone on starmen.net can play is a golden idea. This makes it important enough to make this a big deal.
 # Current People Involved
-Currently it is: Polinym and LastStarmenSuper
+Currently it is: Polinym and LastStarmanSuper
