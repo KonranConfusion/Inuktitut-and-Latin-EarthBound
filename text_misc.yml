@@ -1,0 +1,128 @@
+Ailments:
+  Ailment 01: Nescius
+  Ailment 02: Diamondized
+  Ailment 03: Paralyticus
+  Ailment 04: Nausea
+  Ailment 05: Venenatis
+  Ailment 06: Sunstroke
+  Ailment 07: Sniffling
+  Ailment 08: Mashroomized
+  Ailment 09: Possederunt
+  Ailment 10: Homesick
+Battle Menu:
+  Auto Fight: Auto Pugna
+  Bash: Vercundus
+  Defend: Defendo
+  Do Nothing: Nihil facere
+  Goods: Bona
+  Mirror: Speculum
+  PSI: PSI
+  Pray: Orare
+  Run Away: Effugere
+  Shoot: Surculus
+  Spy: Speculator
+Equip Menu:
+  Arms: '     Armis'
+  Arms Window Title: Armis
+  Body: '      Corpus'
+  Body Window Title: Corpus
+  Defense: Defensio
+  No Equip: '(Nihil) '
+  Offense: Delictum
+  Other: '     Alia'
+  Other Window Title: Alii
+  To: 'Ad:'
+  Unequip: nemo
+  Weapon: '  Telum'
+  Weapon Window Title: Arma
+Item Menu:
+  Drop: Gutta
+  Give: Da
+  Help: Auxilium!
+  Use: Uti
+Menu Action Targets:
+  Where: Ubi?
+  Where 2: Ubi?
+  Which: Quae?
+  Who: Qui?
+  Whom: Quem?
+Other:
+  Lumine Hall Text: Ego sum .... Suus ' been a longa via questus hic... Mox, ego ero... Mox,
+Ego potest... Mox, ego ero... Quid erit nobis? W...quid est quod factum est? Mea
+cogitationes sunt scripta sunt in pariete... aut sunt?
+  Player Name Prompt: Varius nomen tuum, commodo
+Out of Battle Menu:
+  Check: Inspicio
+  Equip: Armo
+  Goods: Bona
+  PSI: PSI
+  Status: Status
+  Talk to: Loqui
+PSI Menu:
+  PP Cost: PP Sumptus
+  Row Back: In Retro Row
+  Row Front: In Ante Row
+  Row To: 'Ad '
+  To all enemies: Ad omnes hostes
+  To all of us: Ad omnes autem nobis
+  To all of us 2: Ad Omnes Autem Nobis
+  To enemy: Ad hostis
+  To one enemy: Ad unum hostis
+  To one enemy 2: Ad Unum Hostis
+  To one of us: Ad unum autem nobis
+  To one of us 2: Ad Unum Amicus
+  To row of foes: Ad row de hostibus
+  himself: ipse
+PSI Types:
+  Assist: Auxilio
+  Offense: Delictum
+  Other: Alia
+  Recover: Recupera
+Starting Text:
+  Ask Name 1: Commodo nomine eum.
+  Ask Name 2: Nomen eius, quoque.
+  Ask Name 3: Nomen amicus.
+  Ask Name 4: Nomen alius amicus
+  Ask Name Food: Ventus cibum?
+  Ask Name PSI: Quid est vestri ventus est rem?
+  Ask Name Pet: Nomen tuum pet.
+  Confirm All: Es vos certus?
+  Confirm All No: Non
+  Confirm All Yes: Licuit
+  Confirm Delete: Es vos certus vos volo ut delete?
+  Confirm Delete No: 'Non'
+  Confirm Delete Yes: 'Ita'
+  Confirm Food: 'Ventus cibum:'
+  Confirm PSI: 'Optimus rem:'
+  Continue: Continue
+  Copy: Copy
+  Copy to where?: Copy ad ubi?
+  Delete: Delete
+  Select Sound: Commodo lego sonus occasum.
+  Select Sound Mono: Mono
+  Select Sound Stereo: Stereo
+  Select Speed: Commodo lego text celeritate.
+  Select Style: Quae Style autem fenestra facite mavis?
+  Set Up: Posuit usque
+  Start New Game: Tincidunt Novum Ludum
+  Text Speed: 'Text Celeritate:'
+  Text Speed Fast: Ieiunium
+  Text Speed Medium: Medium
+  Text Speed Slow: Tardus
+Status Window:
+  Defense: 'Defensio:'
+  Exp. for next level: Exp. enim deinde gradu.
+  Experience Points: 'Experientia Puncta:'
+  Guts: 'Viscera:'
+  Hit Points: 'Hit Puncta:'
+  IQ: 'IQ:'
+  Level: 'Gradu:'
+  Luck: 'Fortuna:'
+  Offense: 'Offense:'
+  PSI Prompt: '@Press in -A- Ipsum enim PSI notitia.'
+  Psychic Points: 'Psychicae Puncta:'
+  Speed: 'Celeritate:'
+  Vitality: 'Vitale:'
+Window Titles:
+  Escargo Express Window Title: Repono Bona
+  Phone Window Title: 'Call:'
